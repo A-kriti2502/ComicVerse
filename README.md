@@ -1,4 +1,4 @@
-<h1>React Marvel API</h1>
+<h1>ComicVerse</h1>
 Marvel Comics SPA
 
 Youtube Link: https://www.youtube.com/watch?v=JZPy_thhmf8
