@@ -14,7 +14,7 @@ const Template = ({ title, desc1, formtype, setIsLoggedIn }) => {
             (<SignupForm setIsLoggedIn={setIsLoggedIn}/>):
             (<LoginForm setIsLoggedIn={setIsLoggedIn}/>)}
 
-            <div className='flex w-full items-center my-4 gap-x-2'>
+            {/* <div className='flex w-full items-center my-4 gap-x-2'>
                 <div className='w-full h-[1px] bg-white'></div>
                 <p className='text-richblack-700 font-medium leading[1.375rem] text-white'>
                     OR
@@ -26,7 +26,7 @@ const Template = ({ title, desc1, formtype, setIsLoggedIn }) => {
             border border-richblack-700 px-[12px] py-[8px] gap-x-2 mt-6 hover:bg-red-800 hover:border-red-800 '>
                 <FcGoogle/>
                 <p className='text-white'>Sign Up with Google</p>
-            </button>
+            </button> */}
         </div>
     </div>
   );
