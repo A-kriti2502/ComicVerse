@@ -2,6 +2,7 @@
 Marvel Comics SPA
 
 Youtube Link: https://www.youtube.com/watch?v=JZPy_thhmf8
+Live Link: https://comicverse-aakriti.netlify.app/
 
 Welcome to the Marvel Comics Single Page Application (SPA)!
 
